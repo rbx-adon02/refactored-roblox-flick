@@ -63,3 +63,6 @@
 <img src="https://img.shields.io/badge/Script-Auto%20Flick%20%2B%20Perfect%20Timing%20%2B%20Infinite%20Stamina-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Undetected%20December%202025-success?style=for-the-badge"/>
 </div>
+
+
+work 31.01.2026
